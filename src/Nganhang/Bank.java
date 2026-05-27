@@ -1,3 +1,5 @@
+package Nganhang;
+
 public class Bank {
 
     public static String checkBank(int age, double income, int creditScore, char employment){
